@@ -1,5 +1,4 @@
-# interruptor Inteligente
-Título: Interruptor Inteligente com ESP01 e Arduino
+# interruptor Interruptor Inteligente com ESP01 e Arduino
 
 ## Descrição:
 Este projeto visa criar um interruptor inteligente que possa ser controlado remotamente utilizando tecnologia Wi-Fi. O projeto utiliza um módulo ESP01 para conexão Wi-Fi e um Arduino para controle do interruptor.
