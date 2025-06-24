@@ -30,6 +30,6 @@ Este projeto visa criar um interruptor inteligente que possa ser controlado remo
 - Pino 9 (PWM) → (LED embutido)
 
 ## Autores:
-- Eloisa
+- Eloisa Jacoby
 - Luana Fernanda Schorr
 - Lucas Ariel Soares Caetano
