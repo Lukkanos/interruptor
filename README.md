@@ -20,16 +20,16 @@ Este projeto visa criar um interruptor inteligente que possa ser controlado remo
 
 ## Conexão Arduino e ESP01:
 
-Arduino          ESP-01
-3.3V ----------→ VCC
-GND ----------→  GND
-Pin 2 (RX - Arduino) → TX (ESP)
-Pin 3 (TX - Arduino) → RX (ESP) via divisor
-3.3V ----------→ CH_PD (ou EN)
+###  Arduino          ESP-01
+- 3.3V ----------→ VCC
+- GND ----------→  GND
+- Pin 2 (RX - Arduino) → TX (ESP)
+- Pin 3 (TX - Arduino) → RX (ESP) via divisor
+- 3.3V ----------→ CH_PD (ou EN)
 
-Pino 9 (PWM) → (LED embutido)
+- Pino 9 (PWM) → (LED embutido)
 
 ## Autores:
-Eloisa
-Luana Fernanda Scchor
-Lucas Ariel Soares Caetano
+- Eloisa
+- Luana Fernanda Scchor
+- Lucas Ariel Soares Caetano
