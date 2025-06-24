@@ -31,4 +31,4 @@ Este projeto visa criar um interruptor inteligente que possa ser controlado remo
 ## Autores:
 - Eloisa Jacoby;
 - Luana Fernanda Schorr;
-- Lucas Ariel Soares Caetano;
+- Lucas Ariel Soares Caetano
